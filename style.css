@@ -72,15 +72,18 @@ a.btn_link {
 }
 
 #insta {
+  color: white;
   position: absolute;
   left: 35%;
 }
 #school {
+  color: white;
   position: absolute;
   left: 50%;
 }
 
 #facebook {
+  color: white;
   position: absolute;
   left: 65%;
 }
