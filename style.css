@@ -76,13 +76,11 @@ a.btn_link {
   left: 35%;
 }
 #school {
-  color: white;
   position: absolute;
   left: 50%;
 }
 
 #facebook {
-  color: white;
   position: absolute;
   left: 65%;
 }
@@ -96,4 +94,8 @@ a.btn_link:hover {
 
 .orangetxt:hover {
   color: #82ad4f;
+}
+
+a.btn_nav {
+  color: white;
 }
